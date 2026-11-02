@@ -11,8 +11,8 @@
 ```
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/keshu-pixel-banner.png" />
-  <img src="./assets/keshu-pixel-banner.gif" alt="Animated retro pixel-art terminal welcoming you to Keshu's developer space, featuring a friendly Claude-inspired terminal mascot" width="100%" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./keshu-pixel-banner.png" />
+  <img src="./keshu-pixel-banner.gif" alt="Animated retro pixel-art terminal welcoming you to Keshu's developer space, featuring a friendly Claude-inspired terminal mascot" width="100%" />
 </picture>
 
 **`MATH × CODE × CURIOSITY`**
@@ -49,12 +49,12 @@
 ### `02 / AI COMMAND DECK`
 
 <div align="center">
-  <img src="./assets/ai-toolbelt.png" width="100%" alt="Four retro terminal AI cards: GPT, Codex, Gemini, and Claude, with Claude highlighted as the daily driver" />
+  <img src="./ai-toolbelt.png" width="100%" alt="Four retro terminal AI cards: GPT, Codex, Gemini, and Claude, with Claude highlighted as the daily driver" />
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="190"><img src="./assets/claude-terminal-mascot.png" width="150" alt="Original orange pixel-art Claude-inspired terminal character" /></td>
+    <td align="center" width="190"><img src="./claude-terminal-mascot.png" width="150" alt="Original orange pixel-art Claude-inspired terminal character" /></td>
     <td>
       <b>🟠 Favourite daily AI agent: Claude Code</b><br/>
       <sub>My go-to terminal companion for everyday development.</sub><br/><br/>
